@@ -1,3 +1,17 @@
-body{
-    background-color: beige;
+h1 {
+  color: white;
+}
+
+.clicked {
+  color: tomato;
+}
+
+.small {
+  background-color: yellow;
+}
+.medium {
+  background-color: palevioletred;
+}
+.large {
+  background-color: skyblue;
 }
